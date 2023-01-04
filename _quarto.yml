@@ -1,3 +1,32 @@
 project:
   type: website
   output-dir: docs
+
+website:
+  title: "Mael Astruc--Le Souder"
+  search: false
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: stuff.qmd
+        text: Stuff
+      - href: about.qmd
+        text: About
+      - icon: twitter
+        href: https://twitter.com/MaelAstruc
+      - icon: github
+        href: https://github.com/MaelAstruc
+      - icon: linkedin
+        href: https://www.linkedin.com/in/mael-astruc-le-souder/
+  page-footer:
+    left: |
+      Amazingly done with [Quarto](https://quarto.org/)
+
+format:
+  html:
+    theme: sandstone
+    css: styles.css
+    toc: true
+
+editor: visual

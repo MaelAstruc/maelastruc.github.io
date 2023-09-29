@@ -1,5 +1,16 @@
 ---
 title: "Mael Astruc--Le Souder"
+about:
+    template: jolla
+    image: img/profile.jpg
 ---
 
-This is my personal website under construction.
+I am a PhD student in Economics at the [Bordeaux School of Economics](https://www.bse.u-bordeaux.fr/) (University of Bordeaux).
+
+I work under the supervision of [Olivier Bargain](https://sites.google.com/site/bargainoliv/) and [Isabelle Chort](https://sites.google.com/site/isabellechort/).
+
+ ---
+
+[![](img/twitter.png){width="20px"} Twitter](https://twitter.com/MaelAstruc){.btn .btn-outline-primary .btn role="button"}
+[![](img/github.png){width="20px"} Github](https://github.com/MaelAstruc){.btn .btn-outline-primary .btn role="button"}
+[![](img/linkedin.png){width="20px"} LinkedIn](https://www.linkedin.com/in/mael-astruc-le-souder){.btn .btn-outline-primary .btn role="button"}

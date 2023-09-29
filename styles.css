@@ -1,1 +1,13 @@
 /* css styles */
+a {
+    color: #4590e6;
+}
+
+div.quarto-about-jolla {
+    padding-bottom: 0px;
+    margin-top: 3%;
+}
+
+.btn {
+    text-transform: none;
+}

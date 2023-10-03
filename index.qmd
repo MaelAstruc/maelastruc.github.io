@@ -11,6 +11,7 @@ I work under the supervision of [Olivier Bargain](https://sites.google.com/site/
 
  ---
 
-[![](img/twitter.png){width="20px"} Twitter](https://twitter.com/MaelAstruc){.btn .btn-outline-primary .btn role="button"}
-[![](img/github.png){width="20px"} Github](https://github.com/MaelAstruc){.btn .btn-outline-primary .btn role="button"}
-[![](img/linkedin.png){width="20px"} LinkedIn](https://www.linkedin.com/in/mael-astruc-le-souder){.btn .btn-outline-primary .btn role="button"}
+[CV](files/Mael_Astruc__Le_Souder_CV.pdf){.btn .btn-outline-primary .btn role="button" target="_blank" rel="noopener noreferrer"}
+[![](img/twitter.png){width="20px"} Twitter](https://twitter.com/MaelAstruc){.btn .btn-outline-primary .btn role="button" target="_blank" rel="noopener noreferrer"}
+[![](img/github.png){width="20px"} Github](https://github.com/MaelAstruc){.btn .btn-outline-primary .btn role="button" target="_blank" rel="noopener noreferrer"}
+[![](img/linkedin.png){width="20px"} LinkedIn](https://www.linkedin.com/in/mael-astruc-le-souder){.btn .btn-outline-primary .btn role="button" target="_blank" rel="noopener noreferrer"}

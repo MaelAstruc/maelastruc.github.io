@@ -1,17 +1,26 @@
 ---
-title: "Mael Astruc--Le Souder"
+title: "Mael Astruc\\-\\-Le Souder"
+image: img/profile.jpg
 about:
-    template: jolla
-    image: img/profile.jpg
+  template: solana
+  links:
+  - icon: envelope-at
+    text: Mail
+    href: mailto:mael.astruc-le-souder@u-bordeaux.fr
+  - icon: twitter
+    text: Twitter
+    href: https://twitter.com/MaelAstruc
+    target: _blank
+  - icon: github
+    text: Github
+    href: https://github.com/MaelAstruc
+    target: _blank
+  - icon: linkedin
+    text: LinkedIn
+    href: https://www.linkedin.com/in/mael-astruc-le-souder
+    target: _blank
 ---
 
-I am a PhD student in Economics at the [Bordeaux School of Economics](https://www.bse.u-bordeaux.fr/) (University of Bordeaux).
+I am a PhD student in Economics working primarily on migration and labor economics at the [Bordeaux School of Economics](https://www.bse.u-bordeaux.fr/) (University of Bordeaux) under the supervision of [Olivier Bargain](https://sites.google.com/site/bargainoliv/) and [Isabelle Chort](https://sites.google.com/site/isabellechort/).
 
-I work under the supervision of [Olivier Bargain](https://sites.google.com/site/bargainoliv/) and [Isabelle Chort](https://sites.google.com/site/isabellechort/).
-
- ---
-
-[CV](files/Mael_Astruc__Le_Souder_CV.pdf){.btn .btn-outline-primary .btn role="button" target="_blank" rel="noopener noreferrer"}
-[![](img/twitter.png){width="20px"} Twitter](https://twitter.com/MaelAstruc){.btn .btn-outline-primary .btn role="button" target="_blank" rel="noopener noreferrer"}
-[![](img/github.png){width="20px"} Github](https://github.com/MaelAstruc){.btn .btn-outline-primary .btn role="button" target="_blank" rel="noopener noreferrer"}
-[![](img/linkedin.png){width="20px"} LinkedIn](https://www.linkedin.com/in/mael-astruc-le-souder){.btn .btn-outline-primary .btn role="button" target="_blank" rel="noopener noreferrer"}
+I am visiting the [University Carlos III of Madrid](https://economia.uc3m.es/) from January to June 2025 with [Jan Stuhler](https://janstuhler.com/).

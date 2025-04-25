@@ -3,18 +3,24 @@ project:
   output-dir: docs
 
 website:
-  title: "Mael Astruc--Le Souder"
   search: false
+  navbar:
+    style: "docked"
+    left:
+      - text: Mael Astruc--Le Souder
+        href: "index.qmd"
+    right:
+      - text: "Research"
+        href: research.qmd
+      - text: "CV"
+        menu:
+          - text: "EN"
+            href: files/Mael_Astruc__Le_Souder_CV-en.pdf
+            target: _blank
+          - text: "FR"
+            href: files/Mael_Astruc__Le_Souder_CV-fr.pdf
+            target: _blank
 
-format:
-  html:
-    grid:
-      sidebar-width: 200px
-      body-width: 2000px
-      margin-width: 400px
-      gutter-width: 1.5rem
-    theme: sandstone
-    css: styles.css
-    toc: true
-
-editor: visual
+theme:
+  dark: darkly
+  light: flatly

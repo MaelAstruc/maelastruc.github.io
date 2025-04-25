@@ -1,4 +1,2 @@
-/.quarto/
-/bib/
-/files/
-/img/
+/quarto/.quarto/
+/quarto/.gitignore

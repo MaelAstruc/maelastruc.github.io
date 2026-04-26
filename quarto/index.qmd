@@ -8,10 +8,20 @@ pagetitle: "Mael Astruc\\-\\-Le Souder"
 
 # Mael Astruc\-\-Le Souder
 
-[![](img/email.svg) Mail](mailto:mael.astruc-le-souder@u-bordeaux.fr){alt="" class="button" target=""}
-[![](img/github.png) Github](https://github.com/MaelAstruc){alt="" class="button" target="_blank"}
-[![](img/linkedin.png) LinkedIn](https://www.linkedin.com/in/mael-astruc-le-souder){alt="" class="button" target="_blank"}
-
 I am a PhD student in Economics working primarily on migration and labor economics at the [Bordeaux School of Economics](https://www.bse.u-bordeaux.fr/) (University of Bordeaux) under the supervision of [Olivier Bargain](https://sites.google.com/site/bargainoliv/) and [Isabelle Chort](https://sites.google.com/site/isabellechort/).
+
+<div class="about-links">
+  <a href="mailto:mael.astruc-le-souder@u-bordeaux.fr" class="button">
+    <span><img src="img/email.svg" alt=""> Mail</span>
+  </a>
+
+  <a href="https://github.com/MaelAstruc" class="button" target="_blank">
+    <span><img src="img/github.svg" alt=""> Github</span>
+  </a>
+
+  <a href="https://www.linkedin.com/in/mael-astruc-le-souder" class="button" target="_blank">
+    <span><img src="img/linkedin.svg" alt=""> LinkedIn</span>
+  </a>
+</div>
 
 </main>

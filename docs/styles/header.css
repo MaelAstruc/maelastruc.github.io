@@ -1,25 +1,29 @@
 header {
 	background-color: #375a7f;
 	color: #fff;
-	nav {
-		margin-left: 2em;
-		margin-right: 2em;
-		display: flex;
-		align-items: center;
-	}
-	nav > * {
-		display: inline-flex;
-	}
-	ul li {
-		display: inline;
-		padding-left: 1em;
-		padding-right: 1em;
-		padding-top: 1.5em;
-		padding-bottom: 1.5em;
-	}
-	a {
-		color: inherit;
-	}
+}
+
+header nav {
+	margin-left: 2em;
+	margin-right: 2em;
+	display: flex;
+	align-items: center;
+}
+
+header nav > * {
+	display: inline-flex;
+}
+
+header ul li {
+	display: inline;
+	padding-left: 1em;
+	padding-right: 1em;
+	padding-top: 1.5em;
+	padding-bottom: 1.5em;
+}
+
+header a {
+	color: inherit;
 }
 
 .navbar-home {
@@ -65,8 +69,65 @@ header {
 	display: block;
 }
 
-.CV-list a:hover {background-color: #ddd;}
+.CV-header:hover .CV-list {
+	display: block;
+}
 
-.CV-header:hover .CV-list {display: block;}
+.CV-header:hover {
+	background-color: #476a8f;
+}
 
-.CV-header:hover {background-color: #476a8f;}
+@media screen and (max-width: 600px) {
+	header nav {
+		flex-direction: column;
+		align-items: flex-start;
+		padding: 0.5em 0 0.5em 0;
+		gap: 0.5em;
+	}
+
+	.navbar-home {
+		padding: 0;
+		text-align: left;
+	}
+
+	.navbar-menu {
+		margin: 0;
+		padding: 0;
+		gap: 0.5em;
+		display: flex;
+		flex-wrap: wrap;
+		flex-direction: column;
+	}
+
+	.navbar-menu li {
+		padding: 0;
+	}
+
+	.CV-list {
+		position: static;
+		display: inline-flex;
+		background: inherit;
+		min-width: 0;
+	}
+
+	.CV-list li {
+		padding: 0 0.3em;
+		color: inherit;
+	}
+
+	.CV-list a {
+		padding: 0;
+	}
+
+	.CV-list::before {
+		content: ":";
+	}
+
+	.CV-header:hover .CV-list {
+		display: inline-flex;
+	}
+
+	.CV-header:hover {
+		background-color: inherit;
+	}
+}

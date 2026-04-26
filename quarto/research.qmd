@@ -7,22 +7,23 @@ link-citations: false
 citations-hover: false
 ---
 
-## Work in progress
+<main>
 
-Return migration and natives labor market outcomes.
-With Cem Özgüzel and Benjamin Michallet
-
-A Question of Honor? The Labor Market Advantage of Academic Signaling. With Olivier Bargain and Gedeão Locks
-
-How Everyday Threats Undermine Trust and Hope: Experimental Evidence. With Olivier Bargain and Niclas Knecht
-
-## Non peer-reviewed
+## Working Papers
 
 [@astruc_le_souder_oecd_2024]
 
 <!--- Astruc-Le Souder, M. et al. (2024), “The OECD Municipal Migration Database: Going granular”, OECD Regional Development Papers, No. 96, OECD Publishing, Paris, [https://doi.org/10.1787/a79b007d-en](https://doi.org/10.1787/a79b007d-en). --->
 
-## Contributions
+## Work in progress
+
+Migration Inflows and Outflows: Labor Market Effects and Geographic Adjustment. With Cem Özgüzel and Benjamin Michallet
+
+A Question of Honor? The Labor Market Advantage of Academic Signaling. With Olivier Bargain and Gedeão Locks
+
+How Everyday Threats Undermine Trust and Hope: Experimental Evidence. With Olivier Bargain and Niclas Knecht
+
+## Research Assistance
 
 [@oecd_contribution_2022]
 
@@ -31,3 +32,7 @@ How Everyday Threats Undermine Trust and Hope: Experimental Evidence. With Olivi
 [@melki_cultural_2024]
 
 <!--- Melki, Mickael, Hillel Rapoport, Enrico Spolaore, and Romain Wacziarg. Cultural Remittances and Modern Fertility. Working Paper. Working Paper Series. National Bureau of Economic Research, September 2024. [https://doi.org/10.3386/w32990](https://doi.org/10.3386/w32990). --->
+
+Michallet, B. and Rapoport, H. & Schneider, S. (*forthcoming*). *Origines et Perspectives des Réfugiés en France (OPReF)*
+
+</main>

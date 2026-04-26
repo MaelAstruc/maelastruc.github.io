@@ -4,23 +4,14 @@ project:
 
 website:
   search: false
-  navbar:
-    style: "docked"
-    left:
-      - text: Mael Astruc--Le Souder
-        href: "index.qmd"
-    right:
-      - text: "Research"
-        href: research.qmd
-      - text: "CV"
-        menu:
-          - text: "EN"
-            href: files/Mael_Astruc__Le_Souder_CV-en.pdf
-            target: _blank
-          - text: "FR"
-            href: files/Mael_Astruc__Le_Souder_CV-fr.pdf
-            target: _blank
+  favicon: img/favicon.svg
 
-theme:
-  dark: darkly
-  light: flatly
+format:
+  html:
+    theme: none
+    minimal: true
+    css:
+      - styles/style.css
+      - styles/header.css
+    include-before-body: _includes/header.html
+    title-block-style: none

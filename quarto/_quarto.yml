@@ -14,7 +14,7 @@ format:
       - styles/style.css
       - styles/header.css
     include-in-header:
-      - text: <script src="_includes/script.js" defer></script>
+      - text: <script src="./_includes/script.js" defer></script>
     include-before-body: _includes/header.html
     title-block-style: none
     

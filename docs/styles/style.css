@@ -1,7 +1,10 @@
-body {
+:root {
+	color-scheme: light dark;
 	font-family: "Segoe UI";
+}
+
+body {
 	margin: 0;
-	color: #212529;
 }
 
 main {
@@ -30,7 +33,6 @@ h2 {
 }
 
 a {
-	color: #0a58ca;
 	text-decoration:none;
 }
 
@@ -42,7 +44,7 @@ a.button {
     padding: 0.2em 0.3em 0.2em 0.3em;
     border: 2px solid;
     border-radius: 3px;
-    color: #222;
+    color: currentColor;
     text-decoration: none;
 	margin: 5px;
 }
@@ -54,6 +56,15 @@ a.button img {
 
 a.button:hover {
     border-color: #777;
+}
+
+html {
+	color: light-dark(#212529, #EEE);
+	background-color: light-dark(#FFF, #222);
+}
+
+a {
+	color: light-dark(#0a58ca, #2fc5fc)
 }
 
 @media screen and (max-width: 600px) {

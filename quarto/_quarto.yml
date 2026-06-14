@@ -4,17 +4,16 @@ project:
 
 website:
   search: false
-  favicon: img/favicon.svg
 
 format:
   html:
-    theme: none
+    template: _includes\template.html
     minimal: true
+    favicon: ./img/favicon.svg
     css:
       - styles/style.css
       - styles/header.css
-    include-in-header:
-      - text: <script src="scripts/script.js" defer></script>
+    scripts:
+      - scripts/script.js
     include-before-body: _includes/header.html
-    title-block-style: none
     

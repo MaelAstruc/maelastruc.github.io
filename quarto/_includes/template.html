@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<!--quarto injected stuff-->
+$metadata.html()$
+
+<link href=$favicon$ rel="icon" type="image/svg+xml">
+$for(header-includes)$
+$header-includes$
+$endfor$
+
+$for(scripts)$<script src="$scripts$" defer></script>
+$endfor$
+
+$for(css)$<link rel="stylesheet" href="$css$">
+$endfor$
+</head>
+<body>
+$for(include-before)$
+$include-before$
+$endfor$
+
+$body$
+</body>
+</html>

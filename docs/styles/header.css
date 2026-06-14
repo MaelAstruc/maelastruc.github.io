@@ -82,12 +82,13 @@ header a:hover {
 	background-color: #DDD;
 }
 
-#theme-toggle {
-	display: none;
+.theme-toggle {
+	position: absolute;
+	cursor: pointer;
 }
 
-.theme-toggle {
-	cursor: pointer;
+.theme-toggle img {
+	pointer-events: none;
 }
 
 @media screen and (max-width: 600px) {

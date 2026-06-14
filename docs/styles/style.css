@@ -72,6 +72,7 @@ a {
 		flex-direction: column;
 		width: 100%;
 		align-items: stretch;
+		gap: 0;
 	}
 
 	.about-links a {

@@ -82,21 +82,6 @@ header a:hover {
 	background-color: #DDD;
 }
 
-.theme-toggle {
-	position: relative;
-}
-
-.theme-toggle input {
-	opacity: 0;
-}
-
-.theme-toggle label {
-	position: absolute;
-	cursor: pointer;
-	top: 1.5em;
-	left: 1.5em;
-}
-
 @media screen and (max-width: 600px) {
 	header nav {
 		flex-direction: column;
@@ -157,10 +142,5 @@ header a:hover {
 
 	.CV-header:hover {
 		background-color: inherit;
-	}
-
-	.theme-toggle label {
-		top: 0;
-		left: 0;
 	}
 }

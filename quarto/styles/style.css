@@ -3,6 +3,11 @@
 	font-family: "Segoe UI";
 }
 
+html {
+	color: light-dark(#212529, #EEE);
+	background-color: light-dark(#FFF, #222);
+}
+
 body {
 	margin: 0;
 }
@@ -17,16 +22,6 @@ main {
 	width: 80%;
 }
 
-.about {
-	align-items: center;
-	text-align: center;
-}
-
-.about-links {
-	display: flex;
-	gap: 0.5em;
-}
-
 h2 {
 	border-bottom: 1px solid #dee2e6;
 	padding-bottom: .5rem;
@@ -34,6 +29,7 @@ h2 {
 
 a {
 	text-decoration:none;
+	color: light-dark(#0a58ca, #2fc5fc)
 }
 
 a:hover {
@@ -58,13 +54,14 @@ a.button:hover {
     border-color: #777;
 }
 
-html {
-	color: light-dark(#212529, #EEE);
-	background-color: light-dark(#FFF, #222);
+.about {
+	align-items: center;
+	text-align: center;
 }
 
-a {
-	color: light-dark(#0a58ca, #2fc5fc)
+.about-links {
+	display: flex;
+	gap: 0.5em;
 }
 
 @media screen and (max-width: 600px) {

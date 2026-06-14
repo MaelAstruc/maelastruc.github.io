@@ -4,7 +4,7 @@ pagetitle: "Mael Astruc\\-\\-Le Souder"
 
 <main class="about">
 
-![](img/profile.jpg){alt="Portrait of Mael Astruc–Le Souder" style="height: 10em; width: 10em; border-radius: 50%;"}
+![](img/profile.webp){alt="Portrait of Mael Astruc–Le Souder" style="height: 10em; width: 10em; border-radius: 50%;"}
 
 # Mael Astruc\-\-Le Souder
 
@@ -12,15 +12,15 @@ I am a PhD student in Economics working primarily on migration and labor economi
 
 <div class="about-links">
   <a href="mailto:mael.astruc-le-souder@u-bordeaux.fr" class="button">
-    <span><img src="img/email.svg" alt=""> Mail</span>
+    <span><img src="img/email.svg" alt="" height="1.1em"> Mail</span>
   </a>
 
   <a href="https://github.com/MaelAstruc" class="button" target="_blank">
-    <span><img src="img/github.svg" alt=""> Github</span>
+    <span><img src="img/github.svg" alt="" height="1.1em"> Github</span>
   </a>
 
   <a href="https://www.linkedin.com/in/mael-astruc-le-souder" class="button" target="_blank">
-    <span><img src="img/linkedin.svg" alt=""> LinkedIn</span>
+    <span><img src="img/linkedin.svg" alt="" height="1.1em"> LinkedIn</span>
   </a>
 </div>
 

@@ -16,4 +16,5 @@ format:
     scripts:
       - scripts/script.js
     include-before-body: _includes/header.html
+    description: "Mael Astruc--Le Souder academic website. PhD in Economics at the Bordeaux School of Economics."
     
